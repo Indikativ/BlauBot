@@ -23,6 +23,7 @@ suspend fun main() {
 
     val bot = Kord(token)
 
+    Indikativ
     Sogga
     AnimeSearch
     Bingus
